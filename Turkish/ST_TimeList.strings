@@ -2,32 +2,32 @@
 
 
 "LOCK_SCREEN" = "Lock Screen";
-"Enabled" = "Aktiviert";
-"POSITION" = "Position";
-"FONT_SIZE" = "Font size";
+"Enabled" = "Aktif";
+"POSITION" = "Pozisyon";
+"FONT_SIZE" = "Font büyüklüğü";
 
-"TIME_FORMAT" = "Time Format";
-"9H_41M" = "9h 41m";
-"9HRS_41MINS" = "9hrs 41mins";
-"9_HOURS_41_MINUTES" = "9 hours 41 minutes";
+"TIME_FORMAT" = "Saat Formatı";
+"9H_41M" = "9s 41d";
+"9HRS_41MINS" = "9sa 41dak";
+"9_HOURS_41_MINUTES" = "9 saat 41 dakika";
 "9:41" = "9:41";
 
-"HIDE_IF" = "Hide if";
-"NEVER" = "Never";
-"HIDE_WHEN_LOADING" = "Hide when con. to Charger";
-"HIDE_WHEN_MUSIC_IS_PLAYING" = "Hide when music is playing";
-"TIME_UNTIL_ALARM" = "Time until Alarm";
-"ALARM_TIME" = "Alarm Time";
-"BOTH" = "Both";
+"HIDE_IF" = "Gizle, eğer";
+"NEVER" = "Asla";
+"HIDE_WHEN_LOADING" = "Saate bağlıyken gizle";
+"HIDE_WHEN_MUSIC_IS_PLAYING" = "Müzik çalıyorken gizle";
+"TIME_UNTIL_ALARM" = "Alarma kalan süre";
+"ALARM_TIME" = "Alarm zamanı";
+"BOTH" = "Tümü";
 
 
-"CLOCK_APP" = "CLOCK APP";
+"CLOCK_APP" = "Saat Programı";
 
 
-"ABOVE_SWITCH" = "Above Switch";
-"UNDER_SWITCH" = "Under Switch";
-"LEFT_SWITCH" = "Left from Switch";
-"AFTER_TEXT" = "After Text";
-"REPLACE_TEXT" = "Replace Text";
-"HIDE_FOR_INACTIVE_ALARMS" = "Hide for Inactive Alarms";
-"Settings time until Alarm" = "Sett. time until Alarm";
+"ABOVE_SWITCH" = "Anahtarın üstünde";
+"UNDER_SWITCH" = "Anahtarın altında";
+"LEFT_SWITCH" = "Anahtarın solunda";
+"AFTER_TEXT" = "Etiketten sonra";
+"REPLACE_TEXT" = "Etiket yerine";
+"HIDE_FOR_INACTIVE_ALARMS" = "İnaktif alarmlar için gizle";
+"Settings time until Alarm" = "Alarma kalan süre ayarları";
