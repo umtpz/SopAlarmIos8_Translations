@@ -1,0 +1,33 @@
+// EN
+
+
+"LOCK_SCREEN" = "Lock Screen";
+"Enabled" = "Aktiviert";
+"POSITION" = "Position";
+"FONT_SIZE" = "Font size";
+
+"TIME_FORMAT" = "Time Format";
+"9H_41M" = "9h 41m";
+"9HRS_41MINS" = "9hrs 41mins";
+"9_HOURS_41_MINUTES" = "9 hours 41 minutes";
+"9:41" = "9:41";
+
+"HIDE_IF" = "Hide if";
+"NEVER" = "Never";
+"HIDE_WHEN_LOADING" = "Hide when con. to Charger";
+"HIDE_WHEN_MUSIC_IS_PLAYING" = "Hide when music is playing";
+"TIME_UNTIL_ALARM" = "Time until Alarm";
+"ALARM_TIME" = "Alarm Time";
+"BOTH" = "Both";
+
+
+"CLOCK_APP" = "CLOCK APP";
+
+
+"ABOVE_SWITCH" = "Above Switch";
+"UNDER_SWITCH" = "Under Switch";
+"LEFT_SWITCH" = "Left from Switch";
+"AFTER_TEXT" = "After Text";
+"REPLACE_TEXT" = "Replace Text";
+"HIDE_FOR_INACTIVE_ALARMS" = "Hide for Inactive Alarms";
+"Settings time until Alarm" = "Sett. time until Alarm";
