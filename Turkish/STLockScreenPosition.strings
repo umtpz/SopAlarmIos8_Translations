@@ -1,0 +1,29 @@
+// tr
+
+"LOCKSCREEN_POSITION" = "Lockscreen position";
+"HORIZONTAL_POSITION" = "Horizontal position";
+
+
+"LEFT" = "Left";
+
+"RIGHT" = "Right";
+"MIDDLE" = "Middle";
+"CUSTOM" = "Custom";
+
+"VERTICAL_POSITION" = "Vertical position";
+"TOP" = "Top";
+"UNDER_CLOCK" = "Under clock";
+"BOTTOM" = "Bottom";
+"SPECIFY_X_VALUE" = "Specify X value:";
+
+"SPECIFY_Y_VALUE" = "Specify Y value:";
+"FROM_LEFT" = "From Left";
+"FROM_RIGHT" = "From Right";
+
+"FROM_TOP" = "From Top";
+"FROM_BOTTOM" = "From Buttom";
+
+
+
+"CLOCK_APP" = "CLOCK APP";
+
